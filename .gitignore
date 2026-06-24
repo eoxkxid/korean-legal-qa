@@ -1,0 +1,7 @@
+data/raw/
+*.zip
+*.tar.gz
+__pycache__/
+*.pyc
+.env
+wandb/
